@@ -4,7 +4,7 @@ import os
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
-question = "Write the outline of the code required to generate a game similar to World of Warcraft"
+question = "Write an Open Source version of the World of Warcraft game."
 
 model_engine = "gpt-6-0141"
 
